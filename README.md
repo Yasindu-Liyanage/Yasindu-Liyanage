@@ -67,10 +67,10 @@ I'm an undergraduate in Computer Science & Engineering, University of Moratuwa ,
 
 ---
 
-## 🏆 Achievements  
-- **IEEEXTREME 16.0** — World Rank 718 | Island Rank 52  
+## 🏆 Achievements   
 - **AtomX Pronuclear Challenge 2025** — Winner | Best Project  
-- **ICRES 2025** — Finalist (Top 10)  
+- **ICRES 2025** — Finalist (Top 10)
+- **IEEEXTREME 16.0 2022** — World Rank 718 | Island Rank 52 
 - **Reply Challenges 2025** — World Rank 367  
 
 ---
