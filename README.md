@@ -82,9 +82,6 @@ I'm an undergraduate in Computer Science & Engineering, University of Moratuwa ,
 
 ---
 
-<!-- Contribution Snake -->
-![Snake animation](https://raw.githubusercontent.com/Yasindu-Liyanage/Yasindu-Liyanage/output/dist/github-contribution-grid-snake.svg)
-
 
 <!-- Footer -->
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=120&section=footer)
