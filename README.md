@@ -9,10 +9,15 @@ I'm an undergraduate in Computer Science & Engineering, University of Moratuwa ,
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=F7A51D&center=true&vCenter=true&lines=AI+Engineer;Machine+Learning+Developer;Data+Scientist;Computer+Vision+Enthusiast;TTS+Researcher)](https://git.io/typing-svg)
 
 ## 🚀 About Me  
-🎓 **Undergraduate** at University of Moratuwa, Sri Lanka — specializing in **Data Science & Engineering** with a minor in **Mathematics**.  
-💡 Passionate about **AI, ML, NLP, and Computer Vision** — building impactful real-world solutions.  
-🌱 Currently working on **Sinhala Text-to-Speech with Speaker Adaptation** and other AI-driven projects.  
-🏆 Multiple competition achievements in **hackathons, AI challenges, and research symposiums**.  
+
+I’m Yasindu Liyanage — a soon-to-be graduate with a **BSc Eng Hons in Computer Science & Engineering** and a **Minor in Mathematics** from the **University of Moratuwa, Sri Lanka** 🎓.  
+All my examinations are complete, and I’m eagerly awaiting my official graduation.  
+
+💡 I’m passionate about **AI, Machine Learning, NLP, and Computer Vision**, and I love transforming data and ideas into impactful, real-world solutions.  
+🚀 My recent work includes **Sinhala Text-to-Speech with Speaker Adaptation**, **Rubber Leaf Disease Detection**, and **Vehicle License OCR systems**.  
+
+Outside of tech, I’m a strong team player, a former sports captain, and someone who enjoys solving challenges — whether in code, research, or competitions.  
+ 
 
 ---
 
