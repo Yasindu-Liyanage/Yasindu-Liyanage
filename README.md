@@ -67,6 +67,16 @@ Outside of tech, I’m a strong team player, a former sports captain, and someon
 
 ---
 
+## 🏅 Beyond Code  
+
+- 🏑 **Hockey** — Vice-Captain & School Team Member (2011–2014)  
+- ♟ **Chess** — School Team Captain and team member (2009–2014)  
+- 🏏 **Cricket** — School Team Member (2012–2015), Main Organizer of Science Section Cricket Tournament (2018), Umpired in *CSE Hit the Grounds* Tournament  
+- 🏆 **Competition Coordination** — Company coordinator for CSE Career Fair 2023 & Rise Up Mora 2021  
+- 🤝 Strong believer in teamwork, leadership, and bringing people together to achieve goals.
+
+---
+
 ## 📫 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/yasindu-liyanage-8aa944215/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/Yasindu-Liyanage)  
