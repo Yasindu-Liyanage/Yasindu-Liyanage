@@ -10,7 +10,7 @@ I'm an undergraduate in Computer Science & Engineering, University of Moratuwa ,
 
 ## 🚀 About Me  
 
-I’m Yasindu Liyanage — a soon-to-be graduate with a **BSc Eng Hons in Computer Science & Engineering** and a **Minor in Mathematics** from the **University of Moratuwa, Sri Lanka** 🎓.  
+I’m Yasindu Liyanage a soon to be graduate with a **BSc Eng Hons in Computer Science & Engineering** and a **Minor in Mathematics** from the **University of Moratuwa, Sri Lanka** 🎓.  
 All my examinations are complete, and I’m eagerly awaiting my official graduation.  
 
 💡 I’m passionate about **AI, Machine Learning, NLP, and Computer Vision**, and I love transforming data and ideas into impactful, real-world solutions.  
@@ -47,19 +47,6 @@ Outside of tech, I’m a strong team player, a former sports captain, and someon
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
 ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
-
----
-
-## 📈 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yasindu-Liyanage&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Yasindu-Liyanage&theme=radical&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yasindu-Liyanage&layout=compact&theme=radical"/>
-</p>
 
 ---
 
